@@ -28,7 +28,7 @@
      
 <strong>Hi, I am Zhuchunyu!👋 </strong>
 
-<strong>Front end development engineers from ChinaC🇳🇨🇳. </strong>
+<strong>Front end development engineers from China🇨🇳. </strong>
 
 </pre> 
 
