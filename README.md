@@ -21,7 +21,7 @@
 <div>
 <img height=60px src="https://developer.android.com/studio/images/studio-icon.svg?hl=zh-cn"> 
 </div>
-<span><b><center>Vue</center></b></span> 
+<span><b><center>Vue2.0</center></b></span> 
 </td>
 
 
@@ -38,7 +38,7 @@
 <div>
 <img height=60px src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4"> 
 </div>
-<span><b><center>OpenElement-Ui</center></b></span> 
+<span><b><center>Element-Ui</center></b></span> 
 </td>
 </tr>
 
