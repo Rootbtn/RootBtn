@@ -1,7 +1,7 @@
 <h1 align="center">Hi  Welcome to my GitHub 👋 </h1>
 
 
-* 我是　[Root Btn](https://rootbtn.github.io/) :blush:
+* 我是　[Root 小白](https://rootbtn.github.io/) :blush:
 * 一个写代码的，什么都搞。热衷开源项目。🤔
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，看电影.📖
 
